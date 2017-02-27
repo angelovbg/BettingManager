@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BettingManager.Tests", "BettingManager.Tests\BettingManager.Tests.csproj", "{3EF05608-227C-40F2-A74F-003913FF8704}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "BettingManagerSetup", "BettingManagerSetup\BettingManagerSetup.vdproj", "{52CDED1F-6211-44EA-8374-BC7EE7D0CA54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BettingManager.Logic", "BettingManager.Logic\BettingManager.Logic.csproj", "{199A8EF8-7B5F-4CDF-BD2B-6144DE2477BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BettingManager.UI", "BettingManager.UI\BettingManager.UI.csproj", "{C9AC6153-5B99-4738-9E7A-F747550C71C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EF05608-227C-40F2-A74F-003913FF8704}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EF05608-227C-40F2-A74F-003913FF8704}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EF05608-227C-40F2-A74F-003913FF8704}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EF05608-227C-40F2-A74F-003913FF8704}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52CDED1F-6211-44EA-8374-BC7EE7D0CA54}.Debug|Any CPU.ActiveCfg = Debug
+		{52CDED1F-6211-44EA-8374-BC7EE7D0CA54}.Release|Any CPU.ActiveCfg = Release
+		{199A8EF8-7B5F-4CDF-BD2B-6144DE2477BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{199A8EF8-7B5F-4CDF-BD2B-6144DE2477BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{199A8EF8-7B5F-4CDF-BD2B-6144DE2477BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{199A8EF8-7B5F-4CDF-BD2B-6144DE2477BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9AC6153-5B99-4738-9E7A-F747550C71C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9AC6153-5B99-4738-9E7A-F747550C71C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9AC6153-5B99-4738-9E7A-F747550C71C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9AC6153-5B99-4738-9E7A-F747550C71C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

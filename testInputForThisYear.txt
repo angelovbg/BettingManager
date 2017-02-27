@@ -1,0 +1,72 @@
+﻿CreateAccount Angel 200 0.065 EUR
+CreateLine 1 WildOver 5
+CreateTipster Angel
+CreateMatch 2017-01-01-01-00 Wild Jackets IceHockey NHL
+CreateBet 1 WildOver Over5_5 5.35 2 1
+CreateFinalResult 1 2 4
+CreateMatch 2017-01-06-01-00 Sharks Wilds IceHockey NHL
+CreateBet 2 WildOver Over5_5 5.94 1.9 1
+CreateFinalResult 2 4 5
+
+CreateMatch 2017-01-07-01-00 Kings Wilds IceHockey NHL
+CreateBet 3 WildOver Over5_5 7.64 1.7 1
+CreateFinalResult 3 4 3
+CreateMatch 2017-01-09-01-00 Ducks Wilds IceHockey NHL
+CreateBet 4 WildOver Over5_5 5.35 2 1
+CreateFinalResult 4 2 1
+CreateMatch 2017-01-13-01-00 Wilds Canadians IceHockey NHL
+CreateBet 5 WildOver Over5_5 16.42 2 1
+CreateFinalResult 5 7 1
+
+CreateMatch 2017-01-15-01-00 Wilds Stars IceHockey NHL
+CreateBet 6 WildOver Over5_5 5.35 2 1
+CreateFinalResult 6 4 5
+
+
+
+CreateAccount Angel 1200 0.065 EUR
+CreateLine 1 BluesOver 5 2
+CreateTipster Angel
+CreateMatch 2017-01-01-01-00 Wild Jackets IceHockey NHL
+CreateBet 1 BluesOver Over5_5 5.35 2 1
+CreateFinalResult 1 2 2
+CreateMatch 2017-01-06-01-00 Sharks Wilds IceHockey NHL
+CreateBet 2 BluesOver Over5_5 18.24 1.9 1
+CreateFinalResult 2 4 0
+CreateMatch 2017-01-07-01-00 Kings Wilds IceHockey NHL
+CreateBet 3 BluesOver Over5_5 45.35 1.91 1
+CreateFinalResult 3 4 1
+CreateMatch 2017-01-09-01-00 Ducks Wilds IceHockey NHL
+CreateBet 4 BluesOver Over5_5 113.24 1.84 1
+CreateFinalResult 4 2 3
+CreateMatch 2017-01-13-01-00 Wilds Canadians IceHockey NHL
+CreateBet 5 BluesOver Over5_5 246.20 1.9 1
+CreateFinalResult 5 0 1
+CreateMatch 2017-01-15-01-00 Wilds Stars IceHockey NHL
+CreateBet 6 BluesOver Over5_5 563.50 1.87 1
+CreateFinalResult 6 0 5
+-991.88
+
+CreateAccount Angel 1200 0.065 EUR
+CreateLine 1 BluesOver 5
+CreateTipster Angel
+CreateMatch 2017-01-01-01-00 Wild Jackets IceHockey NHL
+CreateBet 1 BluesOver Over5_5 5.35 2 1
+CreateFinalResult 1 2 2
+CreateMatch 2017-01-06-01-00 Sharks Wilds IceHockey NHL
+CreateBet 2 BluesOver Over5_5 18.24 1.9 1
+CreateFinalResult 2 4 0
+ChangeLineStep BluesOver 4
+CreateMatch 2017-01-07-01-00 Kings Wilds IceHockey NHL
+CreateBet 3 BluesOver Over5_5 44.18 1.91 1
+CreateFinalResult 3 4 1
+CreateMatch 2017-01-09-01-00 Ducks Wilds IceHockey NHL
+CreateBet 4 BluesOver Over5_5 109.21 1.84 1
+CreateFinalResult 4 2 3
+CreateMatch 2017-01-13-01-00 Wilds Canadians IceHockey NHL
+CreateBet 5 BluesOver Over5_5 236.46 1.9 1
+CreateFinalResult 5 0 1
+CreateMatch 2017-01-15-01-00 Wilds Stars IceHockey NHL
+CreateBet 6 BluesOver Over5_5 540.22 1.87 1
+CreateFinalResult 6 1 5
+-953.66

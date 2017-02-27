@@ -1,0 +1,11 @@
+﻿CreateAccount Angel 200 0.07 EUR
+AddLine Angel First 2 100
+AddMatch 2016-09-10-18-00 Chelsea Arsenal Football PremierLeague
+AddRegularBet 1 First _1 2.15 2
+AddFinalResult 1 1 1
+AddMatch 2016-09-21-18-00 Chelsea ManCity Football PremierLeague
+AddRegularBet 2 First _1 6.61 2
+AddFinalResult 2 1 1
+CheckNextBet First 2
+ShowLine First
+CheckNextBet First 2
